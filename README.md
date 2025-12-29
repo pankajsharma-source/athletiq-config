@@ -1,1 +1,1 @@
-# athletiq-config
+# eutonia-config
