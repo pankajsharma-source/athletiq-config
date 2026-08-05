@@ -3,9 +3,9 @@
     "latest_version": "1.0.5",
     "force_update": true,
     "update_url": "https://apps.apple.com/app/id6757185090",
-    "update_message": "A new version of eutonia is available. Please update to continue.",
+    "update_message": "A new version of varzo is available. Please update to continue.",
     "maintenance_mode": false,
-    "maintenance_message": "eutonia is temporarily unavailable for maintenance.",
+    "maintenance_message": "varzo is temporarily unavailable for maintenance.",
     "bypass_paywall_for_testflight": true,
     "enable_sleep_duration_multiplier": true
   }
