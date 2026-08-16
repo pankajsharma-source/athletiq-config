@@ -7,5 +7,6 @@
     "maintenance_mode": false,
     "maintenance_message": "varzo is temporarily unavailable for maintenance.",
     "bypass_paywall_for_testflight": true,
-    "enable_sleep_duration_multiplier": true
+    "enable_sleep_duration_multiplier": true,
+    "show_launch_offer": true
   }
