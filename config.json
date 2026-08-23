@@ -1,6 +1,6 @@
  {
-    "min_version": "1.0.5",
-    "latest_version": "1.0.5",
+    "min_version": "1.2.1",
+    "latest_version": "1.2.1",
     "force_update": true,
     "update_url": "https://apps.apple.com/app/id6757185090",
     "update_message": "A new version of varzo is available. Please update to continue.",
@@ -11,6 +11,6 @@
     "show_launch_offer": false,
     "analytics": {
     "enabled": true,
-    "level": "standard"
+    "level": "off"
     }
   }
