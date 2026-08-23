@@ -10,7 +10,7 @@
     "enable_sleep_duration_multiplier": true,
     "show_launch_offer": false,
     "analytics": {
-    "enabled": true,
+    "enabled": false,
     "level": "off"
     }
   }
